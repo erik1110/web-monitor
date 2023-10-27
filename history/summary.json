@@ -4,18 +4,20 @@
     "url": "https://superhandy-frontend.zeabur.app/",
     "icon": "https://icons.duckduckgo.com/ip3/superhandy-frontend.zeabur.app.ico",
     "slug": "super-handy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 867,
-    "timeDay": 696,
-    "timeWeek": 764,
+    "timeDay": 0,
+    "timeWeek": 758,
     "timeMonth": 867,
     "timeYear": 867,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-27": 0
+    }
   },
   {
     "name": "Blog",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 172,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 105,
+    "timeDay": 83,
+    "timeWeek": 105,
+    "timeMonth": 105,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   }
 ]
