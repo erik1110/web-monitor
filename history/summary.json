@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/superhandy-frontend.zeabur.app.ico",
     "slug": "super-handy",
     "status": "down",
-    "uptime": "96.52%",
+    "uptime": "93.51%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "84.63%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "96.52%",
+    "uptimeWeek": "70.37%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "93.51%",
     "time": 867,
     "timeDay": 0,
-    "timeWeek": 773,
-    "timeMonth": 875,
+    "timeWeek": 798,
+    "timeMonth": 876,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2023-10-29": 59,
+      "2023-10-30": 56,
+      "2023-10-29": 1440,
       "2023-10-28": 1440,
       "2023-10-27": 51
     }
@@ -32,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 229,
-    "timeWeek": 122,
-    "timeMonth": 122,
-    "timeYear": 122,
+    "time": 135,
+    "timeDay": 225,
+    "timeWeek": 135,
+    "timeMonth": 135,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   }
 ]
