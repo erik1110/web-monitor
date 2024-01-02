@@ -46,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hotel-reservation-backend-sgtq.onrender.com.ico",
     "slug": "hotel-backend",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "96.29%",
+    "uptimeDay": "96.29%",
+    "uptimeWeek": "96.29%",
+    "uptimeMonth": "96.29%",
+    "uptimeYear": "96.29%",
     "time": 5769,
     "timeDay": 5769,
     "timeWeek": 5769,
     "timeMonth": 5769,
     "timeYear": 5769,
     "dailyMinutesDown": {
-      "2024-01-02": 0
+      "2024-01-02": 23
     }
   }
 ]
