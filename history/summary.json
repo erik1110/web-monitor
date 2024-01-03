@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.91%",
     "time": 808,
-    "timeDay": 856,
+    "timeDay": 829,
     "timeWeek": 771,
     "timeMonth": 775,
     "timeYear": 808,
@@ -34,31 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
-    "timeDay": 54,
-    "timeWeek": 107,
+    "timeDay": 69,
+    "timeWeek": 106,
     "timeMonth": 99,
     "timeYear": 107,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Hotel-Backend",
-    "url": "https://hotel-reservation-backend-sgtq.onrender.com/api-docs/",
-    "icon": "https://icons.duckduckgo.com/ip3/hotel-reservation-backend-sgtq.onrender.com.ico",
-    "slug": "hotel-backend",
-    "status": "down",
-    "uptime": "93.05%",
-    "uptimeDay": "91.71%",
-    "uptimeWeek": "93.05%",
-    "uptimeMonth": "93.05%",
-    "uptimeYear": "93.05%",
-    "time": 6051,
-    "timeDay": 6334,
-    "timeWeek": 6051,
-    "timeMonth": 6051,
-    "timeYear": 6051,
-    "dailyMinutesDown": {
-      "2024-01-03": 24,
-      "2024-01-02": 120
-    }
   }
 ]
