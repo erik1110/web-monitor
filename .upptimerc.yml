@@ -6,7 +6,7 @@ sites:
   - name: SuperHandy
     url: https://superhandy-frontend.zeabur.app/
   - name: Blog
-    url: https://erik1110.github.io/
+    url: https://erik1110.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
