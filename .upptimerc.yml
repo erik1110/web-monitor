@@ -7,6 +7,8 @@ sites:
     url: https://superhandy-frontend.zeabur.app/
   - name: Blog
     url: https://erik1110.com
+  - name: Hotel Reservation Service
+    url: https://rere2133.github.io/ts30_booking_web/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
